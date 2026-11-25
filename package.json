@@ -1,0 +1,1 @@
+{"description":"Cancelief — a newly coined English word for the quiet joy of a plan being cancelled. Entry for make.fun's Invent a Word We Need bounty.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"u-deranalabs-invent-a-word-we-need-17a020e0-entry","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
