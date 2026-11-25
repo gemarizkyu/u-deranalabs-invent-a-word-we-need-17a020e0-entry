@@ -10,7 +10,11 @@ Cancelief — a newly coined English word for the quiet joy of a plan being canc
 
 > **Cancelief** (n.) — the quiet joy of a plan being cancelled.
 
-*Cancel* + *relief*: the two halves share their middle sound, so the blend reads like a word English could have grown on its own — sayable, spellable, memorable. It names a feeling almost everyone recognises at once, yet English has no single word for it.
+*Cancel* + *relief*: the two halves share their middle sound, so the blend reads like a word English could have grown on its own — sayable, spellable, memorable. It names a feeling almost everyone recognises at once, yet English has no single word for it. A web search before writing this entry found no prior use of "cancelief" for this feeling.
+
+## Why this word
+
+Other candidates were considered and rejected: "roomnesia" (for forgetting why you entered a room) already circulates in popular articles about the doorway effect, so it is not a fresh coinage; "typelapse" names a narrower, texting-only anxiety. *Cancelief* won on the judge's own order — a fresh word, a gap everyone feels, a definition that lands in one reading.
 
 ## Run it
 
